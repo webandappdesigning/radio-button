@@ -1,0 +1,24 @@
+*{
+    background-color: cadetblue;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 4pc;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ label {
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+ }
